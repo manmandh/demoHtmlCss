@@ -177,7 +177,7 @@ font input{
 	border: none;
 	outline: none;
 }
-
+/*style rules for tablet device*/
 @media screen and (max-width: 1000px){
 	nav{
 		justify-content: start;
@@ -186,7 +186,7 @@ font input{
 		flex-direction: column;
 	}
 }
-
+/*style rules for mobile device*/
 @media screen and (max-width: 420px){
 	.container{
 		max-width: 100%;
