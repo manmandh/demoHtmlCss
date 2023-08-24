@@ -149,6 +149,7 @@ footer p{
 	color: white;
 	font-size: 12px
 }
+
 .btn-footer{
 	background-color: #ffa800;
 	border-radius: 3px;
@@ -172,7 +173,7 @@ footer p{
 	text-align: center;
 	text-transform: uppercase;
 }
-font input{
+.email input{
 	padding: 3px;
 	border: none;
 	outline: none;
